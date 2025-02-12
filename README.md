@@ -28,5 +28,4 @@ N'hésitez pas à explorer mes projets et à me contacter pour des collaboration
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z-ph3n0/z-ph3n0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/z-ph3n0/z-ph3n0/output/github-contribution-grid-snake.svg">
 </picture>
-<img src="https://visitcount.itsvg.in/api?id=z-ph3n0&icon=0&color=0" alt="Visit Counter">
 </div>

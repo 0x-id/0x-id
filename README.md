@@ -16,7 +16,7 @@ Développeur web passionné avec un fort intérêt pour la cybersécurité.
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white" alt="Perl">
 <h2>🟣 Contact</h2>
-<p>Discord: <code>._ph3n0_.</code></p>
+<p>Discord: <code>hex_dump</code></p>
 <p>
 Feel free to explore my projects and contact me for collaborations! | 
 N'hésitez pas à explorer mes projets et à me contacter pour des collaborations !
